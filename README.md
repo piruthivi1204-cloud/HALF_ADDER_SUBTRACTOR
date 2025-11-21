@@ -74,4 +74,5 @@ Developed by:Piruthiviraj.G RegisterNumber:25016420
 
 
 **Result:**
-Thus we obtain Half_Adder and Half_Subractor.
+Thus the a half adder and half subtractor circuit is designed and its truth table is verified in Quartus using Verilog programming .
+
